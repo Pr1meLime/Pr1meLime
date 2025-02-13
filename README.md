@@ -1,13 +1,6 @@
 [ALEXANDER LOSEV](http://www.linkedin.com/in/alexander-losev)
 
-iOS developer, **4+ years** experience
-
-+30 693 690 7610![](Aspose.Words.1bd068b2-87f6-4cd1-8771-1af4e36780a3.001.png)
-
-GMT+2
-
-
-![](Aspose.Words.1bd068b2-87f6-4cd1-8771-1af4e36780a3.002.png)
+iOS developer, **4+ years** experience
 
 [LinkedIn](http://www.linkedin.com/in/alexander-losev)	<losev.alexander.work@gmail.com>	Github
 
