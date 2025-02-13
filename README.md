@@ -1,8 +1,6 @@
-[ALEXANDER LOSEV](http://www.linkedin.com/in/alexander-losev)
+## I am [Alexander Losev](http://www.linkedin.com/in/alexander-losev)
 
 iOS developer, **4+ years** experience
-
-[LinkedIn](http://www.linkedin.com/in/alexander-losev)	<losev.alexander.work@gmail.com>	Github
 
 ## ABOUT 
 iOS Developer with 4 years of commercial experience, working in teams of various sizes, both remotely and on-site. Skilled in building and optimizing iOS applications. Experienced in following Apple's Human Interface Guidelines, migrating projects to new API versions, rewriting UIKit-based interfaces to SwiftUI, and improving crash-free rate. Passionate about developing mobile applications and staying up-to-date with Apple technologies, regularly integrating new iOS features. Additionally, proficient in UI/UX design with Figma to enhance development and user experience. Beyond iOS, have experience in game development and simulation, optimizing UI rendering and resource management for Microsoft Flight Simulator. Developed custom React components and TypeScript scripts, improving performance and usability.
