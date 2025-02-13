@@ -39,6 +39,6 @@ iOS Developer with 4 years of commercial experience, working in teams of various
 
 ***Technologies***: UIKit/SwiftUI, Combine, Core Data, HealthKit, CoreLocation, CoreAnimation, AVFoundation, MVVM, XCTest/XCUITest
 # EDUCATION 
-DON STATE TECHNICAL UNIVERSITY — BACHELOR, 2023 - 2027 
+SOUTHERN FEDERAL UNIVERSITY (FORMER ROSTOV STATE UNIVERSITY) — BACHELOR, 2023 - 2027 
 
 Computer science
