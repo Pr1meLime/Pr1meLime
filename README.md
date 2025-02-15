@@ -8,8 +8,8 @@ iOS Developer with over 3 years of commercial experience, working in teams of va
 
 ## SKILLS 
 
-***iOS*****:** Swift, Objective-C, SwiftUI, UIKit, Combine, SwiftData, CoreData, Grand Central Dispatch (GCD), Swift Concurrency, Alamofire, MVC, MVVM, MVP, MVI, TCA, VIPER, HealthKit, MapKit, Core ML, Swift Testing, XCTest, AVFoundation, Core Location, CoreAnimation, CoreGraphics, REST API, JSON, XML, Fastlane, Crashlytics  
-***Other*****:** CocoaPods, SPM, Xcode, SwiftLint, Git, GitHub, GitLab, Figma, Postman, GraphQL, Firebase, React, JavaScript, TypeScript, Node.js, Express.js, HTML, CSS, Python, Microsoft Flight Simulator SDK, Bing Maps, Visual Studio Code
+***iOS***: Swift, Objective-C, SwiftUI, UIKit, Combine, SwiftData, CoreData, Grand Central Dispatch (GCD), Swift Concurrency, Alamofire, MVC, MVVM, MVP, MVI, TCA, VIPER, HealthKit, MapKit, Core ML, Swift Testing, XCTest, AVFoundation, Core Location, CoreAnimation, CoreGraphics, REST API, JSON, XML, Fastlane, Crashlytics  
+***Other***: CocoaPods, SPM, Xcode, SwiftLint, Git, GitHub, GitLab, Figma, Postman, GraphQL, Firebase, React, JavaScript, TypeScript, Node.js, Express.js, HTML, CSS, Python, Microsoft Flight Simulator SDK, Bing Maps, Visual Studio Code
 
 ## EXPERIENCE 
 
