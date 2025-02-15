@@ -71,7 +71,7 @@ iOS Developer with 4 years of commercial experience, working in teams of various
 
 # EDUCATION
 
-SOUTHERN FEDERAL UNIVERSITY (SFedU) — BACHELOR, 2023 \- 2027 
+SOUTHERN FEDERAL UNIVERSITY (SFedU) — BACHELOR, 2022 \- 2026 
 
 Computer science
 
