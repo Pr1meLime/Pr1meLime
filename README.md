@@ -27,7 +27,7 @@ iOS Developer with over 3 years of commercial experience, working in teams of va
 
 * Refined push notification logic using Firebase Cloud Messaging (FCM) and APNs, sending personalized cycle updates and wellness tips, increasing daily app retention by **17%**. 
 
-* Implemented offline mode with Core Data background syncing, ensuring **98.5%** uptime for key features even in low-connectivity environments. 
+* Implemented offline mode with SwiftData background syncing, ensuring **98.5%** uptime for key features even in low-connectivity environments. 
 
 * Enhanced analytics and reporting by integrating Google Firebase Analytics and Mixpanel, improving user behavior tracking accuracy by **22%** and refining feature iteration cycles. 
 
