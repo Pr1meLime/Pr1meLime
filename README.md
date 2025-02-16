@@ -1,39 +1,19 @@
 # I am [ALEXANDER LOSEV](http://www.linkedin.com/in/alexander-losev)
 
-iOS developer, **3+ years** experience
+Full-Stack | React Native, **4+ years**
 
 ## ABOUT 
 
-iOS Developer with over 3 years of commercial experience, working in teams of various sizes, both remotely and on-site. Skilled in building and optimizing iOS applications. Experienced in following Apple's Human Interface Guidelines, migrating projects to new API versions, rewriting UIKit-based interfaces to SwiftUI, and improving crash-free rate. Passionate about developing mobile applications and staying up-to-date with Apple technologies, regularly integrating new iOS features. Additionally, proficient in UI/UX design with Figma to enhance development and user experience. Beyond iOS, have experience in game development and simulation, optimizing UI rendering and resource management for Microsoft Flight Simulator. Developed custom React components and TypeScript scripts, improving performance and usability.
+**Full-Stack React & React Native Developer** with over **4 years** of commercial experience, working in teams of various sizes, both remotely and on-site. Skilled in building and optimizing web and mobile applications, implementing modern **front-end architectures**, **server-side logic**, and **performance optimizations**. Experienced in migrating projects to **Next.js**, integrating **Firebase** services, optimizing **API** calls, and reducing application load times. Passionate about **React** and **React Native** development, continuously integrating new **web and mobile technologies** to improve performance and maintainability.
 
 ## SKILLS 
 
-***iOS***: Swift, Objective-C, SwiftUI, UIKit, Combine, SwiftData, CoreData, Grand Central Dispatch (GCD), Swift Concurrency, Alamofire, MVC, MVVM, MVP, MVI, TCA, VIPER, HealthKit, MapKit, Core ML, Swift Testing, XCTest, AVFoundation, Core Location, CoreAnimation, CoreGraphics, REST API, JSON, XML, Fastlane, Crashlytics  
-***Other***: CocoaPods, SPM, Xcode, SwiftLint, Git, GitHub, GitLab, Figma, Postman, GraphQL, Firebase, React, JavaScript, TypeScript, Node.js, Express.js, HTML, CSS, Python, Microsoft Flight Simulator SDK, Bing Maps, Visual Studio Code
+***Frontend***: React.js, React Native, Next.js, Redux.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
+***Backend***: Node.js, Express.js, Firebase, Redis, WebSockets, SQL, NoSQL  
+***API & Data Handling***: REST APIs, JSON, XML, GraphQL, Postman API    
+***Project Management & Tools***: Figma, Git, GitHub, GitLab, JIRA, Agile Methodologies, Scrum, Kanban, Slack   
 
 ## EXPERIENCE 
-
-[Essence App](https://www.theessence.app): 03/2023 \- PRESENT, 2\+ YEARS 
-
-* Implemented lazy loading for images, reducing traffic consumption by **20%** and decreasing image loading time by **25.3%**. 
-
-* Enhanced accessibility compliance, implementing VoiceOver and Dynamic Type support, increasing accessibility adoption by **25%** and improving user experience for visually impaired users by **30%**. 
-
-* Developed advanced cycle tracking algorithms using HealthKit, CoreML, and SwiftData, improving menstrual phase prediction accuracy by **18%**. 
-
-* Implemented mindfulness and meditation modules with AVFoundation and Core Audio, enhancing user engagement by **12%** through guided audio sessions and adaptive reminders. 
-
-* Optimized hormonal cycle recommendations using Combine and Swift Concurrency, ensuring seamless real-time data synchronization with Apple Health and reducing data processing lag by **20%**. 
-
-* Refined push notification logic using Firebase Cloud Messaging (FCM) and APNs, sending personalized cycle updates and wellness tips, increasing daily app retention by **17%**. 
-
-* Implemented offline mode with SwiftData background syncing, ensuring **98.5%** uptime for key features even in low-connectivity environments. 
-
-* Enhanced analytics and reporting by integrating Google Firebase Analytics and Mixpanel, improving user behavior tracking accuracy by **22%** and refining feature iteration cycles. 
-
-* Optimized battery consumption by refactoring background tasks and using GCD and Swift Concurrency, reducing energy drain by **15%** for prolonged usage.
-
-***Technologies***: Swift, UIKit, SwiftUI, SwiftData, Grand Central Dispatch (GCD), Swift Concurrency, HealthKit, Core ML, CoreAnimation, AVFoundation, Swift Testing, XCTest/XCUITest, MVVM, JSON, XML, Firebase, Git, GitHub, Figma, REST API, CocoaPods, SPM, Xcode
 
 [SimWorks Studios](https://simworksstudios.com/): 08/2023 \- PRESENT, 1.7\+ YEARS 
 
@@ -61,29 +41,49 @@ iOS Developer with over 3 years of commercial experience, working in teams of va
 
 ***Technologies***: React.js, Node.js, TypeScript, JavaScript, HTML, CSS, Python, JSON, XML, Microsoft Flight Simulator SDK, Bing Maps, Visual Studio Code, Git, GitHub, Figma
 
-[Hyperion Tech Solutions](https://www.hyperiontech-solutions.com/): 01/2022 \- 02/2023, 1.2 YEAR 
+[Hyperion Tech Solutions](https://www.hyperiontech-solutions.com/): 05/2021 \- 07/2023, 2.3 YEAR 
 
-* Migrated the app from UIKit to SwiftUI, reducing code volume by **25%** and accelerating feature development by **15%**. 
+**Web Project (Full-Stack Developer: React, Next.js, Express.js, Firebase)** 
 
-* Fixed memory leaks, decreasing RAM usage by **10%** and improving app stability by **12%**.
+* Migrated the app to Functional Components and Hooks, reducing code volume by **20%** and improving maintainability. 
 
-* Integrated push notifications, leading to a **15%** increase in user engagement and a **10%** improvement in retention rates. 
+* Implemented SSR with Next.js, cutting FCP by **35%** and boosting SEO. 
 
-* Integrated Core Data caching for the news feed, speeding up content loading by **22%** and reducing server load by **15%**. 
+* Integrated Firebase Authentication and Firestore, reducing login time by **40%**. 
 
-* Optimized table view performance, increasing FPS by **12%**, reducing network requests by **15%**, and decreasing scroll lag by **18%**. 
+* Added lazy loading and code splitting, decreasing bundle size by **40%** and improving page speed by **28%**. 
 
-* Refactored UI animations and transitions, achieving a **30%** smoother user experience and reducing animation stuttering by **20%**. 
+* Optimized Firestore queries, reducing read costs by **30%** and enhancing responsiveness. 
 
-* Reduced startup time by **22%** through performance optimizations and background preloading. 
+* Reduced TTFB by **22%** via server-side caching with Redis. 
 
-* Improved CoreLocation accuracy, leading to a **15%** increase in geolocation precision and reducing GPS battery drain by **12%**. 
+* Modularized React components, improving reusability by **35%**. 
 
-* Implemented an offline mode, reducing crashes due to network failures by **20%** and improving usability in low-connectivity areas. 
+* Implemented WebSockets, cutting latency by **50%** for real-time updates. 
 
-* Refined API request handling, reducing API call failures by **15%** and optimizing data synchronization speed by **18%**.
+* Enhanced security with **JWT authentication** and **RBAC**. 
 
-***Technologies***: Swift, UIKit, SwiftUI, Combine, Core Data, Grand Central Dispatch (GCD), Swift Concurrency, MapKit, CoreLocation, CoreAnimation, AVFoundation, MVVM, XCTest/XCUITest, JSON, XML, REST API, CocoaPods, SPM, Xcode, SwiftLint, Git, GitHub, GitLab, Figma, Postman
+	**Mobile Project (React Native Developer: React Native, Firebase)** 
+
+* Refactored navigation with React Navigation v6, reducing crashes by **15%** and improving transitions. 
+
+* Optimized rendering, reducing re-renders by **18%** and improving UI responsiveness. 
+
+* Integrated Firebase push notifications, increasing engagement by **20%**. 
+
+* Implemented offline caching with AsyncStorage & Firebase, reducing server load by **20%**. 
+
+* Cut startup time by **25%** via asset optimization and background preloading. 
+
+* Improved API handling, reducing failures by **15%** and boosting sync speed. 
+
+* Fixed memory leaks, improving stability by **12%** and reducing crashes. 
+
+* Enhanced geolocation accuracy with Expo Location, improving GPS precision by **15%**. 
+
+* Optimized API request batching and caching with React Query and Axios, reducing network requests by **30%** and improving data fetch speed by **25%**.
+
+***Technologies***: React, React Native, Next.js, JavaScript, TypeScript, HTML, CSS, Redux, Zustand, Express.js, Node.js, Firebaset, Git, GitHub, GitLab, Figma, Postman
 
 # EDUCATION
 
