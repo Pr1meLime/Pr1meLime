@@ -1,6 +1,6 @@
 # I am [ALEXANDER LOSEV](http://www.linkedin.com/in/alexander-losev)
 
-Full-Stack | React Native, **4+ years**
+Full-Stack | React Native, **4+ years** of experience
 
 ## ABOUT 
 
