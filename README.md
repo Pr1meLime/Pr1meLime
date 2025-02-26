@@ -1,21 +1,22 @@
 # I am [ALEXANDER LOSEV](http://www.linkedin.com/in/alexander-losev)
 
-Full-Stack | React Native, **4+ years** of experience
+Full-Stack | React Native, **3+ years**
 
 ## ABOUT 
 
-**Full-Stack React & React Native Developer** with over **4 years** of commercial experience, working in teams of various sizes, both remotely and on-site. Skilled in building and optimizing web and mobile applications, implementing modern **front-end architectures**, **server-side logic**, and **performance optimizations**. Experienced in migrating projects to **Next.js**, integrating **Firebase** services, optimizing **API** calls, and reducing application load times. Passionate about **React** and **React Native** development, continuously integrating new **web and mobile technologies** to improve performance and maintainability.
+**Full-Stack React & React Native Developer** with over **3 years** of commercial experience, working in teams of various sizes, both remotely and on-site. Skilled in building and optimizing web and mobile applications, implementing modern **front-end architectures**, **server-side logic**, and **performance optimizations**. Experienced in migrating projects to **Next.js**, integrating **Firebase** services, optimizing **API** calls, and reducing application load times. Passionate about **React** and **React Native** development, continuously integrating new **web and mobile technologies** to improve performance and maintainability.
 
 ## SKILLS 
 
-***Frontend***: React.js, React Native, Next.js, Redux.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
+***Frontend***: React.js, React Native, Next.js, Redux, JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
 ***Backend***: Node.js, Express.js, Firebase, Redis, WebSockets, SQL, NoSQL  
 ***API & Data Handling***: REST APIs, JSON, XML, GraphQL, Postman API    
-***Project Management & Tools***: Figma, Git, GitHub, GitLab, JIRA, Agile Methodologies, Scrum, Kanban, Slack   
+***Project Management & Tools***: Figma, Git, GitHub, GitLab, JIRA, Agile Methodologies, Scrum, Kanban, Slack 
+
 
 ## EXPERIENCE 
 
-[SimWorks Studios](https://simworksstudios.com/): 08/2023 \- PRESENT, 1.7\+ YEARS 
+[SimWorks Studios](https://simworksstudios.com/): 08/2023 \- PRESENT, 1.8\+ YEARS 
 
 **Microsoft Flight Simulator** 
 
@@ -41,7 +42,7 @@ Full-Stack | React Native, **4+ years** of experience
 
 ***Technologies***: React.js, Node.js, TypeScript, JavaScript, HTML, CSS, Python, JSON, XML, Microsoft Flight Simulator SDK, Bing Maps, Visual Studio Code, Git, GitHub, Figma
 
-[Hyperion Tech Solutions](https://www.hyperiontech-solutions.com/): 05/2021 \- 07/2023, 2.3 YEAR 
+[Hyperion Tech Solutions](https://www.hyperiontech-solutions.com/): 03/2022 \- 07/2023, 1.5 YEAR 
 
 **Web Project (Full-Stack Developer: React, Next.js, Express.js, Firebase)** 
 
@@ -55,13 +56,13 @@ Full-Stack | React Native, **4+ years** of experience
 
 * Optimized Firestore queries, reducing read costs by **30%** and enhancing responsiveness. 
 
-* Reduced TTFB by **22%** via server-side caching with Redis. 
-
 * Modularized React components, improving reusability by **35%**. 
 
-* Implemented WebSockets, cutting latency by **50%** for real-time updates. 
+* Integrated Sentry for error monitoring, reducing bug resolution time by **40%**.
 
-* Enhanced security with **JWT authentication** and **RBAC**. 
+* Improved Lighthouse scores, achieving **95+** in performance, SEO, and best practices. 
+
+* Optimized images with Next.js Image component, reducing load time by **25%**.
 
 	**Mobile Project (React Native Developer: React Native, Firebase)** 
 
@@ -83,11 +84,11 @@ Full-Stack | React Native, **4+ years** of experience
 
 * Optimized API request batching and caching with React Query and Axios, reducing network requests by **30%** and improving data fetch speed by **25%**.
 
-***Technologies***: React, React Native, Next.js, JavaScript, TypeScript, HTML, CSS, Redux, Zustand, Express.js, Node.js, Firebaset, Git, GitHub, GitLab, Figma, Postman
+***Technologies***: React, React Native, Next.js, JavaScript, TypeScript, HTML, CSS, Redux, Express.js, Node.js, Firebaset, Git, GitHub, GitLab, Figma, Postman
 
 # EDUCATION
 
-SOUTHERN FEDERAL UNIVERSITY (SFedU) — BACHELOR, 2022 \- 2026 
+ARISTOTLE UNIVERSITY OF THESSALONIKI (AUTH) — BACHELOR, 2024 \- 2029 
 
 Computer science
 
