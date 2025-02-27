@@ -90,8 +90,6 @@ Full-Stack | React Native, **3+ years**
 
 ARISTOTLE UNIVERSITY OF THESSALONIKI (AUTH) — BACHELOR, 2024 \- 2029 
 
-Computer science
-
 # HONORS & AWARDS
 
 [TECHSALONIKI](https://techsaloniki.gr), 2024
